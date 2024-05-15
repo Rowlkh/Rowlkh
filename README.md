@@ -1,10 +1,7 @@
 <div align='center'>
-  <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70FE2FF&center=true&random=false&width=435&lines=Roaa+Khaled" alt="Typing SVG" /></a>
+    <p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&random=false&width=435&lines=Roaa+Khaled" alt="Typing SVG" /></a>
   </p>
-</div>
-<br>
-<div align='center'>
   <p align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&random=false&width=435&lines=Hello!+I+am+a+CS+student" alt="Typing SVG" /></a>
   </p>
