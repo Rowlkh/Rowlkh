@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
+</p>
 
+<div align='center'>
+  <p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&random=false&width=435&lines=Hello!+I+am+a+CS+student" alt="Typing SVG" /></a>
+  </p>
+</div>
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roaakhaled/) 
 
