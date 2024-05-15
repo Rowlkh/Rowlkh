@@ -18,10 +18,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react-light&bg_color=ffffff&hide_border=true" width="100%"/>
 
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake animation](https://github.com/<seu Rowlkh>/<seu Rowlkh>/blob/output/github-contribution-grid-snake2.svg)
 
 #### Top Repositories
 
