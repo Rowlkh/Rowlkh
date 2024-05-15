@@ -18,11 +18,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Rowlkh&show_icons=true&theme=react&title_color=FFFFF&icon_color=FF69B4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rowlkh&layout=compact&size_weight=0.5&count_weight=0.5&theme=react&icon_color=FF69B4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rowlkh&layout=compact&size_weight=0.5&count_weight=0.5&theme=react&icon_color=FF69B4&color=FFFFF)
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react&color=FF69B4&line=FF69B4&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react&color=FFFFF&line=FF69B4&hide_border=false" width="100%"/>
 
 <br>
 
