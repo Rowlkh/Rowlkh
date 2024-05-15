@@ -18,8 +18,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react-light&bg_color=ffffff&hide_border=true" width="100%"/>
 
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/Rowlkh/Rowlkh/snake/github-snake-dark.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 #### Top Repositories
 
