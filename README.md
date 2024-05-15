@@ -14,8 +14,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/roaakhaled/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Rowlkh)
 
-<br>
-
 ### 💻 Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
 ![stats](https://github-readme-stats.vercel.app/api?username=Rowlkh&show_icons=true&theme=transparent&title_color=FFFFF)
@@ -23,7 +21,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=transparent&color=FF69B4&line=FF69B4&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react&color=FF69B4&line=FF69B4&hide_border=false" width="100%"/>
 
 <br>
 
