@@ -16,7 +16,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Rowlkh&show_icons=true&theme=transparent&icon_color=FF69B4&text_color=FFFFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rowlkh&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent&icon_color=FF69B4&text_color=FFFFF)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react-dark&color=FF69B4&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react-dark&color=FF69B4&line=FF69B4&hide_border=false" width="100%"/>
 
 #### Top Repositories
 
