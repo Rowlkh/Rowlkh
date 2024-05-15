@@ -9,9 +9,7 @@
 </div>
 <br>
 ### 🌐 Socials:
-[![Gmail](https://skillicons.dev/icons?icon=gmail&theme=light)](mailto:roaa2205885@miuegypt.edu.eg)
-[![LinkedIn](https://skillicons.dev/icons?icon=linkedin&theme=light)](https://www.linkedin.com/in/roaakhaled/)
-[![GitHub](https://skillicons.dev/icons?icon=github&theme=light)](https://github.com/Rowlkh)
+[![Gmail](https://skillicons.dev/icons?icon=gmail&theme=light)](mailto:roaa2205885@miuegypt.edu.eg) [![LinkedIn](https://skillicons.dev/icons?icon=linkedin&theme=light)](https://www.linkedin.com/in/roaakhaled/) [![GitHub](https://skillicons.dev/icons?icon=github&theme=light)](https://github.com/Rowlkh)
 
 
 ### 💻 Languages and tools:
