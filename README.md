@@ -7,11 +7,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&random=false&width=435&lines=Hello!+I+am+a+CS+student" alt="Typing SVG" /></a>
   </p>
 </div>
-
 <br>
 ### 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github&theme=light)](mailto:roaa2205885@miuegypt.edu.eg)(https://www.linkedin.com/in/roaakhaled/)(https://github.com/Rowlkh)
-<br>
+
 ### 💻 Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
 
