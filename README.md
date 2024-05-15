@@ -1,8 +1,4 @@
-<div align='center'>
-  <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&random=false&width=435&lines=Hello!+I+am+a+CS+student" alt="Typing SVG" /></a>
-  </p>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan&pause=1000&color=F730A9&background=FF6AF700&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Roaa+Khaled;Hello!+I+'m+a+CS+student" alt="Typing SVG" /></a>
 <br>
 
 ### 🌐 Socials:
