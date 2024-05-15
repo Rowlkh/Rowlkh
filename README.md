@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react&color=FF69B4&line=FF69B4&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rowlkh&theme=react&line=FF69B4&hide_border=false" width="100%"/>
 
 <br>
 
