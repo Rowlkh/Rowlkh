@@ -8,11 +8,11 @@
 </div>
 
 ### 🌐 Socials:
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=auto)](mailto:roaa2205885@miuegypt.edu.eg)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=auto)](https://www.linkedin.com/in/roaakhaled/)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=auto)](https://github.com/Rowlkh)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:roaa2205885@miuegypt.edu.eg)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/roaakhaled/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Rowlkh)
 ### 💻 Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=auto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
 
 | <a href="https://github.com/Rowlkh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rowlkh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Roaa's github stats" /></a> | <a href="https://github.com/Rowlkh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowlkh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
