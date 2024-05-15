@@ -17,7 +17,7 @@
 ### 💻 Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Rowlkh&show_icons=true&title_color=FFFFF&icon_color=FF69B4&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=Rowlkh&show_icons=true&icon_color=FF69B4&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rowlkh&layout=compact&size_weight=0.5&count_weight=0.5&icon_color=FF69B4&theme=dark)
 
 <br>
