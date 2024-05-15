@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roaakhaled/) 
 
 ### 💻 Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
 
 | <a href="https://github.com/Rowlkh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rowlkh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Roaa's github stats" /></a> | <a href="https://github.com/Rowlkh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowlkh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
