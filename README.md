@@ -9,7 +9,7 @@
 </div>
 <br>
 ### 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github&theme=light)](mailto:roaa2205885@miuegypt.edu.eg)(https://www.linkedin.com/in/roaakhaled/)(https://github.com/Rowlkh)
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github&theme=light)](https://skillicons.dev)(mailto:roaa2205885@miuegypt.edu.eg)(https://www.linkedin.com/in/roaakhaled/)(https://github.com/Rowlkh)
 
 ### 💻 Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
