@@ -25,17 +25,6 @@
 
 <br>
 
-#### Top Repositories
-
-<a href="https://github.com/Rowlkh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rowlkh&repo=github-readme-stats&theme=dark&text_color=FF69B4" />
-</a>
-<a href="https://github.com/Rowlkh/Rowlkh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rowlkh&repo=github-readme-stats&theme=dark&text_color=FF69B4" />
-</a>
-
-<br />
-<br />
 
 <h4 align="center">
   <a href="https://github.com/Rowlkh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
