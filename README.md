@@ -15,7 +15,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Rowlkh)
 
 ### 💻 Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,nodejs,express,figma,mongodb,cs,mysql,py,dotnet,qt&theme=light)](https://skillicons.dev)
 
 <br>
 
