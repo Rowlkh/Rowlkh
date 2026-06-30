@@ -1,8 +1,6 @@
 <div align='center'>
 
-# Roaa Khaled
-
-**Software Testing | AI | ML | Agentic AI**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Roaa+Khaled;Software+Tester;AI+%26+ML+Engineer;Agentic+AI+Builder;Mobile+App+Developer" alt="Typing SVG" /></a>
 
 </div>
 <br>
@@ -62,4 +60,3 @@
 - Oracle Certified Generative AI Professional — Oracle Cloud Infrastructure (Oct. 2025)
 - Oracle Certified AI Foundations Associate — Oracle Cloud Infrastructure (Oct. 2025)
 - IBM: Artificial Intelligence Fundamentals with Capstone Projects
-- 📄 *Forecasting E-Commerce User Engagement: An Analysis Comparing ML and DL Models* — IEEE MIUCC 2025
