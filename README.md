@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=400&color=A6E22E&background=1E1E1ECC&center=true&vCenter=true&width=600&height=120&lines=%24+whoami;Roaa+Khaled;%24+skills+--list;Software+Testing%2C+AI%2FML%2C+Agentic+AI;%24+status;Open+to+work+%E2%9C%94" alt="terminal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=180&text=Roaa%20Khaled&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Testing%20%7C%20AI%20%2F%20ML%20%7C%20Agentic%20AI&descAlignY=55&descSize=18" width="100%" />
 </div>
 <br>
 
