@@ -1,15 +1,11 @@
-<div align='center'> 
-    <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FF69B4&center=true&random=false&width=435&lines=Roaa+Khaled" alt="Typing SVG" /></a>
-  </p>
-  <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&color=FF69B4&center=true&random=false&width=435&lines=Software+Testing+%7C+AI+%7C+ML+%7C+Agentic+AI" alt="Typing SVG" /></a>
-  </p>
+<div align='center'>
+
+# Roaa Khaled
+
+**Software Testing | AI | ML | Agentic AI**
+
 </div>
 <br>
-
-### 👋 About Me
-Computer Science graduate (minor in Artificial Intelligence) with hands-on experience in software testing, AI/ML systems, and mobile app development. Co-author of an IEEE-published paper on deep learning for e-commerce behavior forecasting. Currently seeking internship or full-time opportunities.
 
 ### 🌐 Socials:
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:rkhaledx@gmail.com)
@@ -67,8 +63,3 @@ Computer Science graduate (minor in Artificial Intelligence) with hands-on exper
 - Oracle Certified AI Foundations Associate — Oracle Cloud Infrastructure (Oct. 2025)
 - IBM: Artificial Intelligence Fundamentals with Capstone Projects
 - 📄 *Forecasting E-Commerce User Engagement: An Analysis Comparing ML and DL Models* — IEEE MIUCC 2025
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rowlkh&show_icons=true&theme=radical" alt="Roaa's GitHub stats" />
-</p>
